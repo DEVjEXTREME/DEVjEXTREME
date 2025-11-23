@@ -1,6 +1,10 @@
 # 👨‍💻 DEV_jEXTREME
 
-**`Desenvolvedor FullStack | GameDev | Java ACIS`**
+
+https://github.com/user-attachments/assets/d273bc7e-6a8d-475d-ba17-a6c4976ca8bd
+
+
+**`Desenvolvedor FullStack `**
 
 Atuo em diversas áreas do desenvolvimento: **games com Unity**, **sistemas em Java**, **C#**, **C++**, **web design**, **PHP**, **JavaScript**, automações e ferramentas internas.  
 Meu foco é criar soluções eficientes, organizadas e com alta performance — seja para jogos, web ou sistemas complexos.
