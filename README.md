@@ -10,20 +10,22 @@ Atuo em diversas áreas do desenvolvimento: **games com Unity**, **sistemas em J
 Meu foco é criar soluções eficientes, organizadas e com alta performance — seja para jogos, web ou sistemas complexos.
 
 <p align="left">
-    <a href="https://www.youtube.com/@DEV_jEXTREME">
+    <a href="https://www.youtube.com/channel/UCXjmHK6ikXHJH8SfJjHAOIw?sub_confirmation=1">
         <img 
             alt="YouTube Subscribers" 
             title="Inscreva-se no canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChdo7Z0Z7aCmaGrZ-kJARdg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXjmHK6ikXHJH8SfJjHAOIw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@DEV_jEXTREME">
+
+    <a href="https://www.youtube.com/channel/UCXjmHK6ikXHJH8SfJjHAOIw">
         <img 
             alt="YouTube Views" 
             title="Visualizações do canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChdo7Z0Z7aCmaGrZ-kJARdg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCXjmHK6ikXHJH8SfJjHAOIw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
-    </a> 
+    </a>
+
     <a href="https://github.com/DEVjEXTREME?tab=repositories&sort=stargazers">
         <img 
             alt="Stars" 
@@ -31,6 +33,7 @@ Meu foco é criar soluções eficientes, organizadas e com alta performance — 
             src="https://custom-icon-badges.demolab.com/github/stars/DEVjEXTREME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
+
     <a href="https://github.com/DEVjEXTREME?tab=followers">
         <img 
             alt="Followers" 
