@@ -1,123 +1,160 @@
 # ⚔️ DEVjEXTREME — jEXTREME / ViniciusDev
-**`Desenvolvedor FullStack • Especialista em Lineage 2 • Base ACIS • Java`**
+**Desenvolvedor FullStack • Especialista em Java & ACIS • Game Dev (Unity/C#) • Web Design & Back-end**
 
-Sou desenvolvedor focado em **Java**, **ACIS**, **Lineage 2 Interlude**, sistemas de automação e projetos em **Unity 3D**.  
-Produzo ferramentas otimizadas, soluções de servidor e sistemas de alto desempenho.  
-Compartilho conhecimento e projetos no meu canal do YouTube **@DEV_jEXTREME** e nas minhas redes sociais.
+Sou desenvolvedor focado em performance e produtos práticos: servidores Lineage 2 (ACIS), jogos e templates Unity, ferramentas e assets, além de aplicações web e design. Trabalho com **Java, C++, C#, Unity, PHP, JavaScript, HTML, CSS** e entrego soluções para servidores, jogos e web.
 
 ---
 
 ### 🎬 Apresentação
+<video controls width="720" loop>
+  <source src="INTRODUCAO.mp4" type="video/mp4">
+  Seu navegador não suporta vídeo. <a href="INTRODUCAO.mp4">Clique aqui para assistir</a>.
+</video>
 
-
-https://github.com/user-attachments/assets/d75ab8d1-82f6-49b6-ad4d-17d3f9d263c2
-
-
-
-
----
-
-<p align="left">
-    <a href="https://www.youtube.com/@DEV_jEXTREME?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCS1JS3BM4tiTqcKoy0eZZng?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-
-   <a href="https://www.youtube.com/@DEV_jEXTREME">
-        <img 
-            alt="youtube views" 
-            title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCS1JS3BM4tiTqcKoy0eZZng?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-
-   <a href="https://github.com/DEVjEXTREME?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/DEVjEXTREME?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-
-   <a href="https://github.com/DEVjEXTREME?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/DEVjEXTREME?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p>
+  <a href="https://www.youtube.com/@DEV_jEXTREME?sub_confirmation=1">
+    <img alt="Inscreva-se" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/DEVjEXTREME?label=Inscreva-se&logo=youtube&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/DEVjEXTREME?tab=repositories&sort=stargazers">
+    <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/DEVjEXTREME?label=estrelas&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/DEVjEXTREME?tab=followers">
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/DEVjEXTREME?label=Seguidores&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 📌 Sumário
+- [Sobre](#-sobre)  
+- [Áreas de Atuação](#-áreas-de-atuacao)  
+- [Tecnologias](#-tecnologias)  
+- [Repositórios em destaque](#-repositórios-em-destaque)  
+- [Como usar / Rodar projetos](#-como-usar--rodar-projetos)  
+- [Contribuição](#-contribuicao)  
+- [Contatos](#-contatos)
 
-<img align="left" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" width="40" title="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
-<img align="left" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" width="40" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-<img align="left" width="40" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
-<img align="left" width="40" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" width="40" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+---
+
+## ℹ️ Sobre
+Aqui estão meus projetos e recursos: **cores de web design, templates e assets para Unity, engines/cores ACIS para Lineage 2, ferramentas em Java/C++/C# e aplicações web com PHP/JS/CSS**. Objetivo: entregar código limpo, otimizado e fácil de manter.
+
+---
+
+## 🎯 Áreas de Atuação (visão geral)
+- **Game Dev & Assets (Unity, C# e C++)** — templates, controllers, multiplayer e assets prontos.  
+- **Servidores / Jogos (Lineage 2, ACIS, Java)** — bases ACIS, otimizações, automações e ferramentas administrativas.  
+- **Web & Front-end (HTML, CSS, JS, Web Design)** — templates, landing pages, interação e UI/UX.  
+- **Back-end & Infra (Java, PHP, MySQL)** — APIs, integrações, desempenho e scripts de deploy.  
+- **Ferramentas & Scripts (C++, C#, automação)** — utilitários para devops, deploy e manutenção.
+
+---
+
+## 🤖 Tecnologias (resumido)
+
+<img align="left" width="36" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" width="36" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" width="36" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="left" width="36" title="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="left" width="36" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img align="left" width="36" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="36" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="36" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="36" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" width="36" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 
 <br/><br/>
 
 ---
 
-## 📂 Repositórios em Destaque
+## 📂 Repositórios em destaque (organizado por área)
 
-🔹 **Software Lineage**  
-Ferramentas profissionais para Lineage 2 Interlude  
-https://github.com/DEVjEXTREME/SOFTWARE_LINEAGE  
+### 🎮 Game Dev / Unity
+- **UNITY_ADVANCED_MULTIPLAYER_FPS** — FPS multiplayer, rede e lógica.  
+- **UNITY_HUMANOID_CONTROLLER** — controlador humanoide moderno e doc.
 
-🔹 **L2jACIS 409 / 382**  
-Bases ACIS otimizadas e atualizadas  
-https://github.com/DEVjEXTREME/L2jACIS_409
+### 🛠️ Engines & Ferramentas (Lineage / ACIS / Java / C++)
+- **L2jACIS_409** — base ACIS 409 (otimizações e correções).  
+- **L2jACIS_382** — base histórica / compatibilidade.  
+- **SOFTWARE_LINEAGE** — utilitários e ferramentas do ecossistema L2.
 
-🔹 **Unity Advanced Multiplayer FPS**  
-Estrutura FPS profissional em Unity  
-https://github.com/DEVjEXTREME/UNITY_ADVANCED_MULTIPLAYER_FPS
+### 🌐 Web & Design
+- Repositórios com templates, landing pages, assets e demonstrações de UI/UX (procure por `web`, `site`, `landing` no seu org).
 
-🔹 **Humanoid Controller**  
-Template de movimentação moderna  
-https://github.com/DEVjEXTREME/UNITY_HUMANOID_CONTROLLER
+### 📦 Assets & Utilitários
+- Pacotes e assets Unity, scripts C++/C# para performance, e libs reutilizáveis.
+
+> Para ver todos: https://github.com/DEVjEXTREME?tab=repositories
 
 ---
 
 ## 📊 Estatísticas
-
 <p>
-  <img 
-    align="left" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=DEVjEXTREME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVjEXTREME&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
-  />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=DEVjEXTREME&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVjEXTREME&theme=tokyonight&layout=compact&langs_count=10" />
 </p>
-
 <br/><br/><br/>
 
 ---
 
-## 🌐 Redes & Contato
+## 🛠️ Como usar / Rodar (exemplos rápidos)
 
-📧 **E-mail:** viniciusdevsuporte@gmail.com  
-🌍 **Site:** https://jextreme.fun  
-💬 **Discord:** https://discord.com/invite/7jgkznBzK5  
-💻 **GitHub:** https://github.com/DEVjEXTREME  
-📘 **Facebook:** https://www.facebook.com/Dev.jEXTREME  
-📸 **Instagram:** https://www.instagram.com/dev_jextreme  
-▶️ **YouTube:** https://www.youtube.com/@DEV_jEXTREME  
-❌ **Twitter:** https://x.com/DEVjEXTREME
+### Projetos Java / ACIS (exemplo)
+```bash
+git clone https://github.com/DEVjEXTREME/L2jACIS_409.git
+cd L2jACIS_409
+# siga o README específico do repositório: build, configuração de DB e scripts de inicialização
+Projetos Unity
+Abra o projeto pelo Unity Hub (versão indicada no repositório).
+
+Importe os pacotes necessários.
+
+Abra a cena Demo e rode no editor para testar.
+
+Web (template)
+bash
+Copiar código
+git clone https://github.com/DEVjEXTREME/<repo-web>.git
+cd <repo-web>
+# abra index.html no navegador ou rode servidor local (ex: Live Server)
+🤝 Contribuição
+Quer contribuir? Excelente!
+
+Fork → Branch (feature/sua-mudanca) → Pull Request.
+
+Siga padrões do repositório (estilo Java, C# ou JS) e escreva testes simples quando possível.
+
+Use commits claros: feat: adicionar X, fix: corrigir Y, docs: atualizar README.
+
+🌐 Contatos & Redes
+✉️ E-mail: viniciusdevsuporte@gmail.com
+
+🌍 Site: https://jextreme.fun
+
+💬 Discord: https://discord.com/invite/7jgkznBzK5
+
+💻 GitHub: https://github.com/DEVjEXTREME
+
+📸 Instagram: https://www.instagram.com/dev_jextreme
+
+▶️ YouTube: https://www.youtube.com/@DEV_jEXTREME
+
+❌ X: https://x.com/DEVjEXTREME
+
+📌 Observações finais
+Posso gerar um banner SVG com estilo gamer + web design e trocar as cores do README se quiser.
+
+Posso também separar seções por cards (Game / Server / Web) com links rápidos para cada repositório e README detalhados por projeto.
+
+Se quiser, já deixo pronto o README com roadmap por área (ex.: roadmap Lineage, roadmap Unity, roadmap Web).
+
+bash
+Copiar código
+
+Commit sugerido:
+```bash
+git checkout -b chore/readme-profile
+# substituir README.md pelo conteúdo acima
+git add README.md
+git commit -m "chore: atualizar README do perfil (balanceado: Lineage, Unity, Web, Java, C++, C#)"
+git push origin chore/readme-profile
