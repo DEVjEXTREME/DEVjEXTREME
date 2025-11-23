@@ -39,7 +39,7 @@ Trabalho com Unity, C#, C++, Java, JavaScript, Web Design, desenvolvimento de fe
 
 ---
 
-# 📺 Vídeo em Destaque
+# 📺 Vídeo 
 *
 https://github.com/user-attachments/assets/e911a5d8-c0b8-44ee-af79-97dad2feb4de
 
