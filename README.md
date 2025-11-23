@@ -1,10 +1,8 @@
 # 👨‍💻 DEV_jEXTREME
 
-
 https://github.com/user-attachments/assets/d273bc7e-6a8d-475d-ba17-a6c4976ca8bd
 
-
-**`Desenvolvedor FullStack `**
+**`Desenvolvedor FullStack`**
 
 Atuo em diversas áreas do desenvolvimento: **games com Unity**, **sistemas em Java**, **C#**, **C++**, **web design**, **PHP**, **JavaScript**, automações e ferramentas internas.  
 Meu foco é criar soluções eficientes, organizadas e com alta performance — seja para jogos, web ou sistemas complexos.
@@ -60,8 +58,7 @@ Meu foco é criar soluções eficientes, organizadas e com alta performance — 
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
