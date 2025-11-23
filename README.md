@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/f6e861ed-786d-4590-92ff-4f9c2fa3a62e
 <!-- Banner Hero -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A5FFF&height=220&section=header&text=DEV_jEXTREME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
@@ -62,8 +64,8 @@ Criação de interfaces, sites, dashboards, sistemas completos e soluções full
 ---
 
 # 🎥 **Vídeo em Destaque**
-*(Me envie o link final do vídeo para colocar aqui corretamente.)*
-
+*( https://github.com/user-attachments/assets/f7017ef4-0d30-4db9-b888-8d8b73c8babb  .)*
+                                                                            
 ---
 
 # 📊 **Estatísticas do GitHub**
