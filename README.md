@@ -7,11 +7,12 @@
 
 ## 🎬 Apresentação / Comercial
 
-<!-- Se o arquivo INTRODUCAO.mp4 está no mesmo repositório, este <video> deve funcionar no README do GitHub -->
-<video controls width="720" loop>
-  <source src="INTRODUCAO.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo. <a href="INTRODUCAO.mp4">Clique aqui para baixar/assistir</a>.
-</video>
+
+
+
+https://github.com/user-attachments/assets/7d2f569c-ad4a-4207-b0cf-2af19729acd4
+
+
 
 ---
 
