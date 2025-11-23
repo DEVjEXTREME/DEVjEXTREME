@@ -57,7 +57,6 @@ Meu foco é criar soluções eficientes, organizadas e com alta performance — 
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" />
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" />
-<img align="left" width="30" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/navicat.svg" />
 <img align="left" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br/><br/><br/>
