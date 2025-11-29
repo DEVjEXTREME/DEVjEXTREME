@@ -66,11 +66,12 @@ Meu foco é criar soluções eficientes, organizadas e com alta performance — 
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=DEVjEXTREME&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" 
-  />
+<img 
+  align="left" 
+  height="200"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=DEVjEXTREME&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+/>
+
 
   <img 
     align="left" 
