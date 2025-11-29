@@ -8,9 +8,9 @@
        style="width:100%; max-width:800px; border-radius:12px;">
 </video>
 
-<br/><br/>
+<br/>
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor `**
 
 Atuo em diversas áreas do desenvolvimento: **Unity**, **Java**, **C#**, **C++**, **web design**, **PHP**, **JavaScript**, automações e ferramentas internas.  
 Crio soluções eficientes, organizadas e com alta performance — seja para jogos, web ou sistemas complexos.
