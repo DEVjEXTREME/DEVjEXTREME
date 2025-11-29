@@ -1,8 +1,7 @@
 <div align="center">
-
+       
 # 👨‍💻 DEV_jEXTREME
 
-<!-- VÍDEO -->
 <video src="https://github.com/user-attachments/assets/0097dd52-67e1-4683-9c7a-34da03997467" 
        controls 
        style="width:100%; max-width:800px; border-radius:12px;">
@@ -17,7 +16,7 @@ Crio soluções eficientes, organizadas e com alta performance — seja para jog
 
 <br/>
 
-<!-- BADGES -->
+
 <p align="center">
   <a href="https://www.youtube.com/channel/UCXjmHK6ikXHJH8SfJjHAOIw?sub_confirmation=1">
     <img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCXjmHK6ikXHJH8SfJjHAOIw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
