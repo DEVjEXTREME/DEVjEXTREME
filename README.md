@@ -3,7 +3,7 @@
 # 👨‍💻 DEV_jEXTREME
 
 <!-- VÍDEO -->
-<video src="https://github.com/DEVjEXTREME/DEVjEXTREME/blob/main/GitHub.mp4" 
+<video src="https://github.com/user-attachments/assets/fd2b3d47-00ec-4efa-bbcf-5ff6a28b386a" 
        controls 
        style="width:100%; max-width:800px; border-radius:12px;">
 </video>
