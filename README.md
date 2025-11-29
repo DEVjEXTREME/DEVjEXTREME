@@ -1,10 +1,6 @@
 # 👨‍💻 DEV_jEXTREME
 
-
-https://github.com/user-attachments/assets/dc489484-035d-4ac9-ad84-356c98341d88
-
-
-
+https://github.com/user-attachments/assets/c3de19af-8444-4443-8a2e-4668a5189ba9
 
 **`Desenvolvedor FullStack`**
 
